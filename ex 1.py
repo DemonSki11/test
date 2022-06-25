@@ -14,3 +14,5 @@ matr1 = []
 print("Исходная матрица matr2:", *matr2, sep="\n")
 res = func(matr2)
 print("\nКонечная матрица matr1:", *res, sep="\n")
+
+f
